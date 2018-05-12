@@ -1,0 +1,29 @@
+_repo: An-Englishman-s-View-of-the-Battle-between-the-Alabama-and-the-Kearsargeon-Sunday-June-19th-1__36988
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edge, Frederick Milnes
+    gutenberg_agent_id: '36855'
+    url: http://www.gutenberg.org/2009/agents/36855
+description: ''
+gutenberg_issued: '2011-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36988'
+  lccn: 02010081
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+- !lcsh 'Kearsarge (Sloop)'
+- !lcc 'E456'
+- !lcsh 'Alabama (Screw sloop)'
+title: "An Englishman's View of the Battle between the Alabama and the Kearsarge\r\
+  \nAn Account of the Naval Engagement in the British Channel, on Sunday June 19th,\
+  \ 1864"
+url: http://www.gutenberg.org/ebooks/36988
